@@ -1,1 +1,2 @@
-# CS341Project2
+CS 341, Programming Languages, UIC
+# Chicago Crime Analysis
